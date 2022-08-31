@@ -39,4 +39,4 @@ jobs:
           app-name: 'matt-pend'
           slot-name: 'Production'
           package: '${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}/output'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_157150F8B7854F71832386013BE6668F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FA7B5881E48C45A9A1379245B4622D14 }}
